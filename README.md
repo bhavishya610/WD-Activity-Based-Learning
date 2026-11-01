@@ -2,8 +2,12 @@
 
 A collection of three clean, responsive, and semantic web landing pages built using modern HTML5 and standard CSS3.
 
----
-
+Student Details:
+ Name : Bhavishya Jonnalagadda
+ Roll No : 26001130
+ Branch : CSE-AIML(CSM)
+ Section : 05
+ 
 ## 📁 Projects Overview
 
 ### 1. Butter & Bloom Bakery
